@@ -1,1 +1,1 @@
-Projet de test sur Runy on Rails ;)
+Projet de test sur Ruby on Rails ;)
